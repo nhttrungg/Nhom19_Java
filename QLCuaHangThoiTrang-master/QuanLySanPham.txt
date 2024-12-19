@@ -1,0 +1,83 @@
+2;Quần jeans nam;QA728;120;450000
+4;Đầm dự tiệc;VAYN123;90;850000
+5;Áo sơ mi trắng;AOFM9012;200;300000
+6;Quần shorts nữ;QNU9349;160;350000
+7;Váy maxi hoa;VAYN123;110;600000
+8;Áo len cổ lọ;AOUNS012;80;700000
+9;Quần thể thao nam;QA728;130;400000
+10;Áo hoodie nữ;AOFM9012;95;550000
+12;Quần kaki nam;QA728;140;500000
+13;Váy công sở;VAYN123;130;750000
+14;Giày thể thao nam;GIAYM1923;90;800000
+15;Giày cao gót nữ;GIAYFM192;70;950000
+16;Áo khoác jean nữ;AOFM9012;110;1100000
+17;Quần baggy nữ;QNU9349;150;370000
+19;Phụ kiện thời trang;PK919;200;150000
+20;Chân váy xếp ly;CHANV9129;130;480000
+22;Quần ngắn thể thao;QA728;140;350000
+23;Váy dạ hội;VAYN123;100;1300000
+24;Giày lười nam;GIAYM1923;85;900000
+25;Giày sandal nữ;GIAYFM192;95;600000
+26;Áo len nữ;AOFM9012;140;400000
+27;Quần dài nữ;QNU9349;120;550000
+29;Phụ kiện giày dép;PK919;210;170000
+30;Chân váy chữ A;CHANV9129;125;450000
+32;Quần bó nữ;QNU9349;110;320000
+33;Váy cưới;VAYN123;50;3000000
+34;Giày đá banh nam;GIAYM1923;80;950000
+35;Giày búp bê nữ;GIAYFM192;100;700000
+36;Áo blazer nữ;AOFM9012;130;850000
+37;Quần lửng nữ;QNU9349;140;370000
+39;Phụ kiện mũ nón;PK919;190;200000
+40;Chân váy midi;CHANV9129;110;500000
+42;Quần jogger nữ;QNU9349;130;400000
+43;Váy ngắn nữ;VAYN123;120;450000
+44;Giày chạy bộ nam;GIAYM1923;85;850000
+45;Giày thể thao nữ;GIAYFM192;90;720000
+46;Áo khoác gió nữ;AOFM9012;140;950000
+47;Quần dài thể thao;QA728;150;380000
+48;Áo hoodie nam;AOUNS012;100;600000
+49;Chân váy ôm;CHANV9129;115;430000
+51;Quần jean lưng cao;QNU9349;100;500000
+52;Váy midi nữ;VAYN123;130;690000
+53;Giày tennis nam;GIAYM1923;75;800000
+54;Giày bốt nữ;GIAYFM192;60;1100000
+55;Áo sơ mi dáng dài;AOFM9012;110;620000
+56;Quần short nam;QA728;140;350000
+57;Áo khoác len;AOUNS012;90;1300000
+58;Chân váy bò;CHANV9129;80;600000
+60;Quần kaki nữ;QNU9349;130;490000
+61;Váy bút chì;VAYN123;120;680000
+62;Giày mọi nam;GIAYM1923;70;780000
+63;Giày tây nữ;GIAYFM192;80;880000
+64;Áo sơ mi công sở;AOFM9012;150;700000
+65;Quần âu nữ;QNU9349;90;520000
+67;Áo hoodie unisex;AOUNS012;120;650000
+68;Chân váy tennis;CHANV9129;140;420000
+69;Áo thun nữ;AOFM9012;180;290000
+70;Quần jean rách;QA728;110;470000
+71;Áo khoác dạ nữ;AOFM9012;85;1100000
+72;Quần đùi nam;QA728;140;320000
+73;Váy xòe hoa;VAYN123;130;580000
+74;Giày boot nam;GIAYM1923;90;1300000
+75;Giày thể thao nữ cao cổ;GIAYFM192;100;750000
+76;Áo vest nữ;AOFM9012;120;1250000
+77;Quần baggy nam;QA728;110;470000
+79;Phụ kiện ví da;PK919;160;200000
+80;Chân váy dài;CHANV9129;100;540000
+82;Quần kaki ngắn;QNU9349;130;380000
+83;Váy ôm body;VAYN123;80;650000
+84;Giày cao cổ nam;GIAYM1923;75;1200000
+85;Giày sandal nữ thời trang;GIAYFM192;95;600000
+86;Áo khoác bomber;AOFM9012;110;1050000
+87;Quần ống rộng nữ;QNU9349;140;460000
+89;Phụ kiện dây lưng;PK919;170;250000
+90;Chân váy ngắn;CHANV9129;90;390000
+91;Áo gió thể thao;AOUNS012;130;850000
+92;Quần jean skinny;QNU9349;120;420000
+93;Váy suông nữ;VAYN123;100;580000
+94;Giày oxford nam;GIAYM1923;80;950000
+95;Giày slip-on nữ;GIAYFM192;85;650000
+96;Áo cardigan nữ;AOFM9012;90;490000
+97;Quần jean dáng suông;QA728;110;430000
+98;Áo khoác hoodie;AOUNS012;140;600000

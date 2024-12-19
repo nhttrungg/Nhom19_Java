@@ -1,0 +1,9 @@
+QA728;Quần nam
+VAYN123;Váy
+AOUNS012;Áo Unisex
+AOFM9012;Áo nữ
+GIAYM1923;Giày nam
+QNU9349;Quần nữ
+CHANV9129;Chân váy
+GIAYFM192;Giày nữ
+PK919;Phụ kiện
